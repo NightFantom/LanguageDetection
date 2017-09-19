@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.idea
+input_stop_words.txt
+__pycache__
